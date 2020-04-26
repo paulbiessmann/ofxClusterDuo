@@ -76,6 +76,6 @@
 
 
 ## Sonstige Tasten:
-b - draw black
-f - full screen
-h - hide cursor
+	b - draw black
+	f - full screen
+	h - hide cursor
